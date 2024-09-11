@@ -64,6 +64,7 @@ main p {
     background-color:#f4d04e;
     display: inline-block;
     text-align: center;
+    font-size: 0.875rem;
     font-weight: 800;
     border-radius: 4px;
     padding: 0.25rem 0.625rem;
